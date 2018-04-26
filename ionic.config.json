@@ -1,0 +1,8 @@
+{
+  "name": "wl3app",
+  "app_id": "66b35a9d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
